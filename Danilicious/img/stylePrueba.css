@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.container{
+    margin: 0 auto;
+    border: 1px solid wheat;
+    height: 60rem;
+    width: auto;
+    background-image: url(../img/Cupcakes\ .jpeg);
+   object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
